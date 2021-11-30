@@ -50,3 +50,6 @@ def adivinhacao():
             pontos = pontos - pontos_perdidos
 
     print("FIM DE JOGO")
+
+if(__name__ == "__main__"):
+    adivinhacao()
